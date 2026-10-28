@@ -1,0 +1,6 @@
+{
+  "name": "Aethelgard: Sunset Realm",
+  "description": "An immersive 3D open-world adventure featuring dynamic god rays sunset, terrain physics, wildlife AI, interactive weather, and dual joystick controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
